@@ -9,7 +9,7 @@
 <p align="justify">  Esse projeto é parte da avaliação final da disciplina de aprendizado de máquina do segundo semestre letivo da Ilum escola de ciência. O trabalho consiste em desenvolver e avaliar modelos de aprendizado de máquina para a classificação de moléculas quanto a sua biodegrabilidade utilizando descritores moleculares extraídos do Instituto Nacional de Tecnologia e Avaliação do Japão (NITE) e disponibilizados no repositório público de aprendizado de máquina da University of California Irvine (UCI) pelos autores do artigo sob o título "Quantitative Structure-Active Relationship Model for Ready Biodegradability of Chemicals". Foram investigadas diferentes estratégias de pré-processamento, agrupamento de exemplos semelhantes, validação cruzada, otimização de hiperparâmetros e interpretação dos modelos, buscando obter predições robustas, quimicamente e biologicamente relevantes. 
      
 ## Conteúdo do repositório
-<p align="justify"> Neste repositório, temos o notebook jupyter, nomeado como **Tiamat.ipynb** contendo todos os códigos, discussões e análises realizadas disponíveis para serek consultados. O dataset escolhido também encontra-se disponível para consulta, além de ser necessário que ele seja baixado junto ao notebook para que os dados possam ser utilizados dentro dos códigos. 
+<p align="justify"> Neste repositório, temos o notebook jupyter, nomeado como Tiamat.ipynb contendo todos os códigos, discussões e análises realizadas disponíveis para serek consultados. O dataset escolhido também encontra-se disponível para consulta, além de ser necessário que ele seja baixado junto ao notebook para que os dados possam ser utilizados dentro dos códigos. 
 
 ## Bibliotecas utilizadas
 - numpy
